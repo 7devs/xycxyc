@@ -1,0 +1,29 @@
+{
+    "button": [
+        {
+            "name": "菜单1",
+            "sub_button": [
+                {
+                    "name": "子菜单1",
+                    "type": "click",
+                    "key": "menu11"
+                },
+                {
+                    "name": "子菜单2",
+                    "type": "click",
+                    "key": "menu22"
+                }
+            ]
+        },
+        {
+            "name": "菜单2",
+            "type": "click",
+            "key": "menu2"
+        },
+        {
+            "name": "更多...",
+            "type": "view",
+            "url": "http://wechatdev.yokeneng.com/"
+        }
+    ]
+}
